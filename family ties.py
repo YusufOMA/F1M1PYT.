@@ -1,1 +1,0 @@
-print("Mijn naam is Yusuf")
